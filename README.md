@@ -1,2 +1,3 @@
 # gvenkat
-DataScience
+Dta Analytics/Oracle
+Pythib/AI/Gen AI/LLM
